@@ -17,26 +17,4 @@ Tech stack
 - Vite (development + build)
 - Simple local state + mock data (no backend required)
 
-Quick start
 
-**Prerequisites:** Node.js (LTS recommended)
-
-1. Install dependencies:
-
-   `npm install`
-
-2. (Optional) If you want AI features, set `GEMINI_API_KEY` in a local environment file (for example `.env.local`).
-
-3. Run the app locally:
-
-   `npm run dev`
-
-Build
-
-   `npm run build`
-
-Notes
-- The app currently uses mock data (`mockData.ts`) and local UI-driven state. Replace or extend with a backend if you need persistence.
-- See the `components/` folder for the main UI pieces (Header, Hero, VehicleGrid, AdminDashboard, etc.).
-
-If you want, I can replace the original README.md with this content now.
