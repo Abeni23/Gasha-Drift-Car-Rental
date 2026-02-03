@@ -1,6 +1,6 @@
 # GashaDrift — Car Rental
 
-GashaDrift is a lightweight car-rental demo app built with React and Vite. It provides a searchable, filterable vehicle catalog, booking modal, an admin dashboard, and an AI-powered assistant for support and recommendations.
+GashaDrift is a lightweight car-rental demo app built with React and Vite. It provides a searchable, filterable vehicle catalog, booking modal, an admin dashboard.
 
 Features
 - Search and filter vehicles by make, model, price, and availability
