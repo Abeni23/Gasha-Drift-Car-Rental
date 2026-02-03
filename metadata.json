@@ -1,0 +1,7 @@
+{
+  "name": "GashaDrift Car Rental",
+  "description": "A high-end, real-time car rental management system with intelligent vehicle recommendations and robust fleet tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
